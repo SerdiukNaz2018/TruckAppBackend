@@ -1,5 +1,6 @@
-create database Automobile 
-create schema avto 
+--create database Automobile 
+--create schema avto 
+
 CREATE TABLE avto.Truck
 (
 	Id						BIGINT					PRIMARY KEY 	IDENTITY(1,1),
